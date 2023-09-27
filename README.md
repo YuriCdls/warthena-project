@@ -119,6 +119,6 @@ TELA DE ESQUECEU A SENHA ATUAL
  - [Jefferson Ribeiro](https://github.com/jeffersonribeiroti)
  - [Julia Rocha](http://github.com/juliarcoelho)
  - [Marcos Tenorio](https://github.com/MarcosTenorioDev)
- - 
+ - [Yuri Cavalcanti](https://github.com/YuriCdls)
  - 
  - 
